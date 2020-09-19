@@ -11,5 +11,5 @@ function printSW()
 end
 
 export printHW
-
+export printSW
 end
